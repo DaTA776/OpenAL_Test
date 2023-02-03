@@ -43,6 +43,7 @@ int main()
 		/*up = */ 0.0f,1.0f,0.0f
 	};
 
+
 	alec(alListenerfv(AL_ORIENTATION, forwardAndUpVectors));
 
 	std::string name = "H:\\Solutions\\OpenAL-soft test\\Test\\Test_OpenAL\\Sounds\\coin21.wav";
